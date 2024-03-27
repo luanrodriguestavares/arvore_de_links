@@ -21,7 +21,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - JavaScript
-- Git e Github
 - Figma
 
 ## 💻 Projeto
@@ -29,6 +28,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Agregador de links para usar como cartão de visitas online.
 
 
-<p align="center">
-Luan Rodrigues. <br/>
+<p align="center">Rocketseat - Discover</p>
 
